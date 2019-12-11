@@ -25,4 +25,4 @@ Even though the binary search might only require logarithmic time. The time for 
 
 ![Ins](/images/50000.png)
 
-![Ins](/images/100000.png)
+![Ins](/images/1000000.png)
