@@ -6,11 +6,11 @@ Analyzing modified versions of two different algorithms. We are investigating th
 
 **Theory**
 
-Time complex of standard insertion sort in worst case: C(n) = C(1)+((n−1))/2=((n−1)n)/2=(n^2−n)/2
+Time complex of standard insertion sort in worst case:
 
 ![Ins](/images/ins.png)
 
-Time complex of binary search recursive sort in worst case: C(n/2(k-1) = C(1)+((n−1))/2=((n−1)n)/2=(n^2−n)/2
+Time complex of binary search recursive sort in worst case:
 
 ![Bin](/images/bin.png)
 
