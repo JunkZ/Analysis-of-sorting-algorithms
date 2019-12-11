@@ -1,9 +1,10 @@
 # Analysis-of-sorting-algorithms
-**Abstract
+
+**Abstract**
 
 Analyzing modified versions of two different algorithms. We are investigating the time complex of a modified version of merge sort.
 
-**Theory
+**Theory**
 
 Time complex of standard insertion sort in worst case: C(n) = C(1)+((n−1))/2=((n−1)n)/2=(n^2−n)/2
 
