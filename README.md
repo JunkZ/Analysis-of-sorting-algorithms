@@ -1,5 +1,7 @@
 # Analysis-of-sorting-algorithms
+
 !!ONLY A SUMMARY READ THE REPORT!!
+
 **Abstract**
 
 Analyzing modified versions of two different algorithms. We are investigating the time complex of a modified version of merge sort.
