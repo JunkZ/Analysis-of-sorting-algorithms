@@ -1,4 +1,4 @@
-# Analysis-of-sorting-algorithms
+# Analysis-of-sorting-algorithms (SHORT VERSION)
 
 **Abstract**
 
